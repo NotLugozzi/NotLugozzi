@@ -1,4 +1,7 @@
-### Hi there 👋
+# Howdy :D
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLugozzi&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotLugozzi&show_icons=true&theme=dracula&layout=compact)
+#### Sometimes i also play the funny game 
 ![](https://github-readme-score-saber.vercel.app/api?uid=76561198996666820)
 <!--
 **NotLugozzi/NotLugozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
