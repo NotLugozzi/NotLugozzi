@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github-readme-score-saber.vercel.app/api?uid=76561198996666820)
 <!--
 **NotLugozzi/NotLugozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
