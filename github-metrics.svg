@@ -1310,7 +1310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lshbluesky/WhateverGreen</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Apr 17 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs, also fixed to work on Intel 11/12th Gen Tiger/Alder Lake</div>
@@ -1670,7 +1670,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2024, 09:13:43 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 May 2024, 10:18:06 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
