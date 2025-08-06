@@ -1337,7 +1337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pr0v3rbs/CVE-2025-32463_chwoot</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Escalation of Privilege to the root through sudo binary with chroot option. CVE-2025-32463</div>
@@ -1704,7 +1704,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2025, 08:34:35 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2025, 09:25:29 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
