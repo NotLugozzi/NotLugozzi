@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            411 Commits
+                            413 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.1064577742288" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="288.1064577742288" y="0" width="97.6356307501424" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.7420885243711" y="0" width="55.22362151212463" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.9657100364958" y="0" width="11.113647577920132" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.0793576144159" y="0" width="2.636737455170734" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="454.71609506958663" y="0" width="2.479222866330547" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.1953179359172" y="0" width="1.4978076443316881" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="458.69312558024893" y="0" width="1.306874419751083" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.74151753813055" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="288.74151753813055" y="0" width="97.2749164393561" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="386.01643397748666" y="0" width="55.01959814053556" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.0360321180222" y="0" width="11.072588266933037" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.1086203849552" y="0" width="2.6269960428752546" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="454.73561642783045" y="0" width="2.4700633908333014" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.2056798186638" y="0" width="1.492274002074609" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="458.6979538207384" y="0" width="1.302046179261593" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Andrea-Speranza/ExpenseCalcolator</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libgme/game-music-emu</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blargg's video game music emulation library, which allows audio applications to easily add playback support for the music of many classic video game consoles.</div>
@@ -1704,7 +1704,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2026, 15:01:25 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2026, 20:50:16 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
